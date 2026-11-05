@@ -1,0 +1,18 @@
+AI assistance disclosure
+Project: Forest Adventure
+Student: Serzhan Karishal
+
+2026-11-05 | ChatGPT / Codex
+- Provided example Unity PauseMenu and MainMenu code in chat.
+- Explained how to attach components and wire button On Click events.
+- Explained reuse of the pause UI across scenes.
+- Drafted and formatted a two-page English GDD using project files and chat.
+- Added the student name and repository URL to the draft GDD.
+- Copied Assets, Packages and ProjectSettings from the supplied project path
+  into a separate Git checkout; prepared commits and repository documentation.
+- No gameplay code was changed during this repository packaging step.
+- Runtime playtesting and Device Simulator checks were not performed.
+
+The GDD includes proposed scope and planning assumptions for student review.
+This log covers assistance visible in this conversation and is not a claim
+to be a complete record of all earlier development or AI use.
